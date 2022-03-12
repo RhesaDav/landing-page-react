@@ -1,0 +1,52 @@
+.app {
+  background-color: whitesmoke;
+}
+
+.title {
+  width: 100%;
+  background-color: antiquewhite;
+  margin: 0px;
+  text-align: center;
+}
+
+.img-banner {
+  width: 100%;
+}
+
+h2 {
+  font-size: 30px;
+  text-align: center;
+  margin: 0px;
+}
+
+h3 {
+  font-size: 15px;
+  text-align: center;
+  font-weight: 100;
+  margin: 0px;
+}
+
+.nav {
+  display: flex;
+  list-style-type: none;
+  border-bottom: 2px solid gray;
+  justify-content: center;
+}
+
+.active-link {
+  color: red;
+  text-decoration: underline 4px;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.link {
+  font-size: 20px;
+  text-decoration: none;
+  color: gray;
+  padding: 10px;
+}
+
+.desc {
+  margin: 40px;
+}
